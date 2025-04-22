@@ -1,0 +1,6 @@
+ID: 854, Name: Ariza, GPA: 3.2
+ID: 654, Name: Armeen, GPA: 3.3
+ID: 688, Name: Simal, GPA: 2.98
+ID: 846, Name: Hafsa, GPA: 3.5
+ID: 898, Name: Laiba, GPA: 3.3
+ID: 1026, Name: Manahil, GPA: 3.9
